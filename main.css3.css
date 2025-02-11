@@ -1,0 +1,37 @@
+.banner {
+    background: url('ẢNH BANNER.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 12em;
+    padding-bottom: 12em;
+    text-align: center !important;
+    color: pink;
+    }
+    .slogan {
+    background-color: rgb(255, 255, 255) !important;
+    text-align: center !important;
+    width: 100%;
+    padding-right: 0.5 em;
+    padding-left: 3em;
+    padding-top:7em;
+    padding-bottom:7em;
+    }
+    .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -1;
+    max-width: 100%;
+    padding-right: 3em;
+    padding-left: 3m;
+    }
+    .block_3 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    }
+    .text-content {
+    padding-right: 1em;
+    width: 100%;
+    }
+    .container{height:20px}
+    h1{font-family: Times, "Time New Roman", serif ;color: red;}
+   h2{font-family:'Times New Roman', Times, serif; color:aqua;}
+   body{background-color:pink;}
